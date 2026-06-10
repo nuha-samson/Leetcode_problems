@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nuha-samson/Leetcode_problems/tree/master/0001-two-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nuha-samson/Leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
 | ------- |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nuha-samson/Leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nuha-samson/Leetcode_problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
