@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nuha-samson/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/nuha-samson/Leetcode_problems/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/nuha-samson/Leetcode_problems/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nuha-samson/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nuha-samson/Leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/nuha-samson/Leetcode_problems/tree/master/3895-count-digit-appearances) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/nuha-samson/Leetcode_problems/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nuha-samson/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nuha-samson/Leetcode_problems/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/nuha-samson/Leetcode_problems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
