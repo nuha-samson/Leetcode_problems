@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nuha-samson/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/nuha-samson/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/nuha-samson/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/nuha-samson/Leetcode_problems/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nuha-samson/Leetcode_problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/nuha-samson/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nuha-samson/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nuha-samson/Leetcode_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nuha-samson/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nuha-samson/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0344-reverse-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nuha-samson/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -75,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nuha-samson/Leetcode_problems/tree/master/0076-minimum-window-substring) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/nuha-samson/Leetcode_problems/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
