@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nuha-samson/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/nuha-samson/Leetcode_problems/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nuha-samson/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/nuha-samson/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nuha-samson/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nuha-samson/Leetcode_problems/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nuha-samson/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nuha-samson/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nuha-samson/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nuha-samson/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nuha-samson/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Matrix
 |  |
 | ------- |
