@@ -10,7 +10,6 @@ class Solution:
         window_count = Counter()
         result = []
         
-        # Initialize the first window
         for i in range(len(p)):
             window_count[s[i]] += 1
         if window_count == p_count:
