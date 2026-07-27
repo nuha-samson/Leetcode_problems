@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nuha-samson/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nuha-samson/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/nuha-samson/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nuha-samson/Leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nuha-samson/Leetcode_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nuha-samson/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nuha-samson/Leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nuha-samson/Leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nuha-samson/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nuha-samson/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nuha-samson/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nuha-samson/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/nuha-samson/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nuha-samson/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/nuha-samson/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nuha-samson/Leetcode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
