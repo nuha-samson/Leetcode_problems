@@ -10,7 +10,6 @@ class Solution:
         for i in range(k,len(arr)):
             window -= arr[l]
             window += arr[i]
-            
             l += 1
             if window / k >= threshold:
                 count += 1
