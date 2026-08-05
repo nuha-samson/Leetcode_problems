@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nuha-samson/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nuha-samson/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nuha-samson/Leetcode_problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/nuha-samson/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/nuha-samson/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/nuha-samson/Leetcode_problems/tree/master/0463-island-perimeter) |
 | [0643-maximum-average-subarray-i](https://github.com/nuha-samson/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
@@ -154,10 +155,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nuha-samson/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nuha-samson/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/nuha-samson/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/nuha-samson/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nuha-samson/Leetcode_problems/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nuha-samson/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
