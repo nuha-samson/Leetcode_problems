@@ -1,11 +1,11 @@
-from collections import defaultdict
+from typing import List
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        my_dict = defaultdict(int)
+        hashs = {}
         for i in range(len(nums)):
-            if target - nums[i]  in my_dict:
-                return my_dict[target - nums[i]],i
-            my_dict[nums[i]] = i
-
-
-        
+            complement = target - nums[i]
+            if complement in hashs:
+                return [hashs[complement], i]
+            hashs[nums[i]] = i
+        return []
