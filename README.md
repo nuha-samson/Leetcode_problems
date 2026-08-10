@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/nuha-samson/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/nuha-samson/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/nuha-samson/Leetcode_problems/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/nuha-samson/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/nuha-samson/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/nuha-samson/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
