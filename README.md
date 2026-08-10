@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nuha-samson/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/nuha-samson/Leetcode_problems/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/nuha-samson/Leetcode_problems/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nuha-samson/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nuha-samson/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/nuha-samson/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/nuha-samson/Leetcode_problems/tree/master/0066-plus-one) |
 | [2769-find-the-maximum-achievable-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nuha-samson/Leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/nuha-samson/Leetcode_problems/tree/master/3895-count-digit-appearances) |
