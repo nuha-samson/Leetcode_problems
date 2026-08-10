@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nuha-samson/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/nuha-samson/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/nuha-samson/Leetcode_problems/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nuha-samson/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nuha-samson/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/nuha-samson/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
 ## Depth-First Search
 |  |
