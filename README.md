@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nuha-samson/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nuha-samson/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nuha-samson/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nuha-samson/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nuha-samson/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/nuha-samson/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nuha-samson/Leetcode_problems/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0268-missing-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nuha-samson/Leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/nuha-samson/Leetcode_problems/tree/master/3895-count-digit-appearances) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nuha-samson/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nuha-samson/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nuha-samson/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nuha-samson/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/nuha-samson/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nuha-samson/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nuha-samson/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nuha-samson/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
 ## Depth-First Search
 |  |
@@ -140,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nuha-samson/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nuha-samson/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nuha-samson/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nuha-samson/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
