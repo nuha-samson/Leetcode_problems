@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nuha-samson/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nuha-samson/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/nuha-samson/Leetcode_problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0136-single-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nuha-samson/Leetcode_problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0268-missing-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/2769-find-the-maximum-achievable-number) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/nuha-samson/Leetcode_problems/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/nuha-samson/Leetcode_problems/tree/master/0867-transpose-matrix) |
