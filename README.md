@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nuha-samson/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nuha-samson/Leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/nuha-samson/Leetcode_problems/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/nuha-samson/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
