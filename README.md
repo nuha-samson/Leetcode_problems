@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nuha-samson/Leetcode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nuha-samson/Leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nuha-samson/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nuha-samson/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/nuha-samson/Leetcode_problems/tree/master/0475-heaters) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nuha-samson/Leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
