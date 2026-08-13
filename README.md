@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nuha-samson/Leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/nuha-samson/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nuha-samson/Leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nuha-samson/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/3110-score-of-a-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/nuha-samson/Leetcode_problems/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
+| [1768-merge-strings-alternately](https://github.com/nuha-samson/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
