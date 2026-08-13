@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/nuha-samson/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/nuha-samson/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/nuha-samson/Leetcode_problems/tree/master/0463-island-perimeter) |
+| [0475-heaters](https://github.com/nuha-samson/Leetcode_problems/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/nuha-samson/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/nuha-samson/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/nuha-samson/Leetcode_problems/tree/master/0724-find-pivot-index) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nuha-samson/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nuha-samson/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0475-heaters](https://github.com/nuha-samson/Leetcode_problems/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
 ## Binary Search
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nuha-samson/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nuha-samson/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0268-missing-number) |
+| [0475-heaters](https://github.com/nuha-samson/Leetcode_problems/tree/master/0475-heaters) |
 ## Matrix
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nuha-samson/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nuha-samson/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0475-heaters](https://github.com/nuha-samson/Leetcode_problems/tree/master/0475-heaters) |
 ## Divide and Conquer
 |  |
 | ------- |
