@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nuha-samson/Leetcode_problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nuha-samson/Leetcode_problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nuha-samson/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nuha-samson/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nuha-samson/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nuha-samson/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nuha-samson/Leetcode_problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nuha-samson/Leetcode_problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/nuha-samson/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/nuha-samson/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nuha-samson/Leetcode_problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/nuha-samson/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/nuha-samson/Leetcode_problems/tree/master/0867-transpose-matrix) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nuha-samson/Leetcode_problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
