@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nuha-samson/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nuha-samson/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/nuha-samson/Leetcode_problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/nuha-samson/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0567-permutation-in-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/nuha-samson/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/nuha-samson/Leetcode_problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nuha-samson/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/nuha-samson/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nuha-samson/Leetcode_problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nuha-samson/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/nuha-samson/Leetcode_problems/tree/master/0383-ransom-note) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nuha-samson/Leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
 |  |
