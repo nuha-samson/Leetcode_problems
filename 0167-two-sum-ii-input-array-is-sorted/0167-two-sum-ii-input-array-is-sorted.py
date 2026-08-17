@@ -7,4 +7,3 @@ class Solution:
                 return [hashs[ind]+1,i+1]
             hashs[numbers[i]] = i
         return []
-        
