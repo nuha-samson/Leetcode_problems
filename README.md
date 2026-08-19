@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nuha-samson/Leetcode_problems/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/nuha-samson/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/nuha-samson/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/nuha-samson/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nuha-samson/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/nuha-samson/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/nuha-samson/Leetcode_problems/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nuha-samson/Leetcode_problems/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/nuha-samson/Leetcode_problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
