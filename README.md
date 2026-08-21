@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nuha-samson/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/nuha-samson/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nuha-samson/Leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/nuha-samson/Leetcode_problems/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/nuha-samson/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/nuha-samson/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nuha-samson/Leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/nuha-samson/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/nuha-samson/Leetcode_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [1768-merge-strings-alternately](https://github.com/nuha-samson/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/nuha-samson/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/nuha-samson/Leetcode_problems/tree/master/0475-heaters) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nuha-samson/Leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/nuha-samson/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
 | ------- |
