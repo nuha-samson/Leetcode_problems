@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nuha-samson/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/nuha-samson/Leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nuha-samson/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2469-convert-the-temperature](https://github.com/nuha-samson/Leetcode_problems/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nuha-samson/Leetcode_problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nuha-samson/Leetcode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
