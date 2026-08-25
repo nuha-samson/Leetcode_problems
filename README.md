@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/nuha-samson/Leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/nuha-samson/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nuha-samson/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nuha-samson/Leetcode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/1470-shuffle-the-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nuha-samson/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/nuha-samson/Leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/nuha-samson/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nuha-samson/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nuha-samson/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/nuha-samson/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/nuha-samson/Leetcode_problems/tree/master/0475-heaters) |
+| [0977-squares-of-a-sorted-array](https://github.com/nuha-samson/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nuha-samson/Leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/nuha-samson/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
