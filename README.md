@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nuha-samson/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nuha-samson/Leetcode_problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/nuha-samson/Leetcode_problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nuha-samson/Leetcode_problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/nuha-samson/Leetcode_problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nuha-samson/Leetcode_problems/tree/master/0075-sort-colors) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/nuha-samson/Leetcode_problems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/nuha-samson/Leetcode_problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/nuha-samson/Leetcode_problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nuha-samson/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nuha-samson/Leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nuha-samson/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/nuha-samson/Leetcode_problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nuha-samson/Leetcode_problems/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
