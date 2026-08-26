@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nuha-samson/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/nuha-samson/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nuha-samson/Leetcode_problems/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/nuha-samson/Leetcode_problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/nuha-samson/Leetcode_problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nuha-samson/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nuha-samson/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
